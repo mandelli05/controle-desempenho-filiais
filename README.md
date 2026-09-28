@@ -12,11 +12,10 @@ Atualização dinâmica de dados
 Busca por metas de faturamento  
 Tratamento robusto de erros  
 
-## Autores
+## Autor
 
 - Matheus Mandelli
-- Arthur Schunk
-- Diogo Araujo
+
 
 ## Como usar
 
