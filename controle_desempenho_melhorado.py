@@ -1,5 +1,5 @@
 print("CONTROLE DE DESEMPENHO DE FILIAIS")
-print("Arthur Schunk, Matheus Mandelli, Diogo Araujo")
+print("Matheus Mandelli")
 
 filiais = ["Filial Domingos Martins", "Filial Vitoria", "Filial Vila Velha"]
 semanas = ["Semana 1", "Semana 2", "Semana 3", "Semana 4"]
